@@ -1,6 +1,10 @@
 # 2026 울산여고 교내 해커톤 - 스마트 매점 관리 앱 Maejum Easy
 ## team 다지다 - 10420 정다정 | 10822 이지민 | 10115 이다혜
 
+
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/507fd8dd-c0da-479b-b371-7a70121ade4f" />
+
+
 여기는 리드미 공간이고 대충 웹앱에 대해 설명글을 써두면 멋있어보이는 곳임 ㅇㅇ
 해커톤 1년 지나면 까먹어버리므로 여기에 사용한 기술이나 코드를 정리해둘 수 있음
 
