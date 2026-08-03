@@ -2,7 +2,19 @@
 ## team 다지다 - 10420 정다정 | 10822 이지민 | 10115 이다혜
 
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/507fd8dd-c0da-479b-b371-7a70121ade4f" />
+<img width="500" height="500" alt="Maejum Easy" src="https://github.com/user-attachments/assets/302abd97-4c45-4723-9d7e-aa7daebfdda0" />
+
+
+1. 주제 및 프로젝트 소개
+2. 기술 스택
+3. 아키텍쳐
+4. 주요 기능
+5. 화면 구성
+6. 발표 자료
+7. 기타 과정
+8. 팀 소개
+9. 피드백
+10. 수상 및 느낀 점
 
 
 여기는 리드미 공간이고 대충 웹앱에 대해 설명글을 써두면 멋있어보이는 곳임 ㅇㅇ
